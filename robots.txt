@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iamrkasula.github.io/hours-tracker-app/sitemap.xml
